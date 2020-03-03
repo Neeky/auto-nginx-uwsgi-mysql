@@ -1,0 +1,1 @@
+# auto-nginx-uwsgi-mysql
